@@ -15,7 +15,8 @@ A cross-platform Flutter app for managing personal health information, medicatio
 ---
 
  Introduction
-XMed is a comprehensive health management app that allows users to:
+ 
+This app is a comprehensive health management app that allows users to:
 - Store and manage personal and medical information
 - Track medications and health activities
 - Consult medical experts
